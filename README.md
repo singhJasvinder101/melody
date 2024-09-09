@@ -2,7 +2,7 @@
 
 <p align="center" style="margin-bottom: 20px;"><img src="https://socialify.git.ci/singhJasvinder101/melody_music/image?font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Light" alt="project-image"></p>
 
-<p id="description" style="margin-left: 20px; margin-right: 20px; margin-bottom: 20px;">Welcome to **Meloddy Music**, a React Native application designed to offer an exceptional music experience. Whether you're looking to discover new tunes, create playlists, or simply enjoy your favorite tracks, Meloddy Music brings you an engaging and seamless music experience right on your mobile device.</p>
+<p id="description" style="margin-left: 20px; margin-right: 20px; margin-bottom: 20px;">Welcome to <b>Melody Music</b>, a React Native application designed to offer an exceptional music experience. Whether you're looking to discover new tunes, create playlists, or simply enjoy your favorite tracks, Meloddy Music brings you an engaging and seamless music experience right on your mobile device.</p>
 
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/github/stars/singhJasvinder101/melody_music?color=232323&amp;label=melody_music&amp;logo=github&amp;labelColor=232323" alt="shields">
@@ -69,6 +69,12 @@ npm run android --clear-cache
   <li>React Navigation</li>
   <li>NativeWind</li>
 </ul>
+
+<h2 style="margin-top: 20px; margin-bottom: 20px;">Demo 👇🏼</h2>
+
+https://github.com/user-attachments/assets/f298c382-9040-4db6-84b0-5849752c23bd
+
+
 
 <h2 style="margin-top: 20px; margin-bottom: 20px;">💖 Like my work?</h2>
 
